@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="05393909-c1af-4838-9f59-9b4a8d376ec9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="41" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xu0zFSqVlZDy2E4VePMziq11OG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oshi\Desktop\maven project" />
+      <recent name="C:\Users\Oshi\Desktop\maven project\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oshi\Desktop\maven project\src\test\java\Cucumber\StepDefinitions" />
+      <recent name="C:\Users\Oshi\Desktop\maven project\src\test\java\Cucumber\features" />
+      <recent name="C:\Users\Oshi\Desktop\maven project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Linear_Array">
+    <configuration name="Dynamic_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_01122020.Dynamic_Array" />
+      <module name="maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_01122020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_01122020.For_Loop" />
+      <module name="maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_01122020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Linear_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_01122020.Linear_Array" />
+      <module name="maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_01122020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Print_Statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1_01112020.Print_Statement" />
+      <module name="maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day1_01112020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="While_Loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2_01122020.While_Loop" />
+      <module name="maven project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2_01122020.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Linear_Array" />
+        <item itemvalue="Application.While_Loop" />
+        <item itemvalue="Application.Dynamic_Array" />
+        <item itemvalue="Application.For_Loop" />
+        <item itemvalue="Application.Print_Statement" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05393909-c1af-4838-9f59-9b4a8d376ec9" name="Default Changelist" comment="" />
+      <created>1581880932883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581880932883</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="13" y="0" key="#Project_Structure" timestamp="1582322296849">
+      <screen x="0" y="0" width="840" height="485" />
+    </state>
+    <state x="13" y="0" key="#Project_Structure/0.0.840.485@0.0.840.485" timestamp="1582322296849" />
+    <state x="513" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582474231311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="513" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1582474231311" />
+    <state x="421" y="237" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1582399879093">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="421" y="237" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1344.800@0.0.1344.800" timestamp="1582399879093" />
+    <state x="391" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1583000210980">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="342" y="326" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1344.800@0.0.1344.800" timestamp="1582400295023" />
+    <state x="391" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1583000210980" />
+    <state x="537" y="268" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582667241644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="260" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1344.800@0.0.1344.800" timestamp="1581885159452" />
+    <state x="537" y="268" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1582667241644" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582662282971">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582662282971" />
+    <state x="453" y="155" key="FileChooserDialogImpl" timestamp="1582399575642">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="453" y="155" key="FileChooserDialogImpl/0.0.1344.800@0.0.1344.800" timestamp="1582399575642" />
+    <state width="1477" height="220" key="GridCell.Tab.0.bottom" timestamp="1582667388369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1301" height="187" key="GridCell.Tab.0.bottom/0.0.1344.800@0.0.1344.800" timestamp="1581885965303" />
+    <state width="1477" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582667388369" />
+    <state width="798" height="48" key="GridCell.Tab.0.bottom/0.0.840.485@0.0.840.485" timestamp="1582338377435" />
+    <state width="1477" height="220" key="GridCell.Tab.0.center" timestamp="1582667388369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1301" height="187" key="GridCell.Tab.0.center/0.0.1344.800@0.0.1344.800" timestamp="1581885965303" />
+    <state width="1477" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582667388369" />
+    <state width="798" height="48" key="GridCell.Tab.0.center/0.0.840.485@0.0.840.485" timestamp="1582338377435" />
+    <state width="1477" height="220" key="GridCell.Tab.0.left" timestamp="1582667388369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1301" height="187" key="GridCell.Tab.0.left/0.0.1344.800@0.0.1344.800" timestamp="1581885965303" />
+    <state width="1477" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582667388369" />
+    <state width="798" height="48" key="GridCell.Tab.0.left/0.0.840.485@0.0.840.485" timestamp="1582338377435" />
+    <state width="1477" height="220" key="GridCell.Tab.0.right" timestamp="1582667388369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1301" height="187" key="GridCell.Tab.0.right/0.0.1344.800@0.0.1344.800" timestamp="1581885965303" />
+    <state width="1477" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582667388369" />
+    <state width="798" height="48" key="GridCell.Tab.0.right/0.0.840.485@0.0.840.485" timestamp="1582338377435" />
+    <state x="175" y="0" key="SettingsEditor" timestamp="1582475215619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1344.800@0.0.1344.800" timestamp="1582399870393" />
+    <state x="175" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582475215619" />
+    <state x="427" y="231" key="com.intellij.ide.util.TipDialog" timestamp="1582989859552">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="374" y="224" key="com.intellij.ide.util.TipDialog/0.0.1344.800@0.0.1344.800" timestamp="1582399518297" />
+    <state x="427" y="231" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582989859552" />
+    <state x="233" y="135" key="com.intellij.ide.util.TipDialog/0.0.840.485@0.0.840.485" timestamp="1582385827563" />
+    <state x="171" y="201" key="run.anything.popup" timestamp="1582663209257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="150" y="195" key="run.anything.popup/0.0.1344.800@0.0.1344.800" timestamp="1582398304486" />
+    <state x="171" y="201" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1582663209257" />
+    <state x="94" y="118" key="run.anything.popup/0.0.840.485@0.0.840.485" timestamp="1582398000110" />
+    <state x="335" y="121" width="672" height="678" key="search.everywhere.popup" timestamp="1582399482877">
+      <screen x="0" y="0" width="1344" height="800" />
+    </state>
+    <state x="335" y="121" width="672" height="678" key="search.everywhere.popup/0.0.1344.800@0.0.1344.800" timestamp="1582399482877" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/day1_01112020/Variable_Type.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/maven_project$testMetLife_loops.ic" NAME="testMetLife_loops Coverage Results" MODIFIED="1582337560940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Action_Items.*</FILTER>
+    </SUITE>
+  </component>
+</project>
